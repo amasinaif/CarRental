@@ -9,5 +9,7 @@ Vehicle Management: Add new vehicles, delete vehicles, and search for vehicles b
 Rental Transactions: Rent a vehicle to a customer and receive rented vehicles back from customers.
 
 **Note:**
+
 This application uses text files (Customer.txt and vehicle.txt) to store customer and vehicle information respectively. Make sure these files are present in the same directory as the compiled executable.
+
 This is a basic implementation intended for educational purposes. Feel free to modify and enhance it as needed.
